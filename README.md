@@ -1,5 +1,8 @@
-Hello! My name is Firehawk-Ph4ntom. I'm a passionate CnC player and I've been playing the game since the mid-2000s. In 2019 I began modding CnC and started with Kane's Wrath and Tiberium Wars.
-I'm mainly a coder and basic scripter, and do a bit of art as well. I've made 2 mods across from 2019 till now, one for Kane's Wrath called "Tiberium Insanity", and the other for Tiberium Wars called "Tiberium Wars Firestorm".
-I found modding those games as a nice hobby.
+Hello! I'm Firehawk-Ph4ntom, a passionate Command & Conquer player since the mid-2000s. I began modding in 2019 with Kane's Wrath and Tiberium Wars, where I discovered my passion for understanding and reshaping the mechanics behind the games I love, creating a new experience for myself and other players.
 
-Other than modding, I've also been working on a Computer Science degree, and mainly just been doing some projects university.
+I primarily focus on coding and scripting, with additional experience in a bit of art and design. Over the years, I’ve developed two major mods:
+- Tiberium Insanity (Kane's Wrath)
+- Tiberium Wars Firestorm (Tiberium Wars)
+
+Modding over time became more than a hobby, and I've been learning and understanding Game Design from these 2 experiences
+Outside of modding, I’m pursuing a degree in Computer Science, where I am building projects to strengthen my knowledge in Software Engineering, and also Game Development.
